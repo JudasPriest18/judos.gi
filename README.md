@@ -1,0 +1,2 @@
+# judos.gi
+priest
